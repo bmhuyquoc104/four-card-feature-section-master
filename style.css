@@ -61,7 +61,7 @@ main{
     color: var(--clr_text_primary);
     font-weight: var(--fw_large);
     font-size: clamp(1rem,3.5vh,2em);
-    margin-bottom: 1em;
+    margin-bottom: 0.7em;
 }
 
 .container p{
