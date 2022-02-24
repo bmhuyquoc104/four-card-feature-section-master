@@ -109,7 +109,7 @@ main{
 }
 
 .card__container >*{
-    box-shadow: -2px 2px 25px 0px hsl(234, 12%, 34%);
+    box-shadow:  -2px 2px 25px 0px hsl(234deg 12% 80%);
     border-radius:5px;
 }
 
